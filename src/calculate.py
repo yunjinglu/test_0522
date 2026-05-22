@@ -7,6 +7,6 @@ def sub_fun(a, b):
     return a - b
 
 
-def mul_fun(a, b) -> float:
+def mul_fun(a: float, b: float) -> float:
     # return 123
     return a * b
